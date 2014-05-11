@@ -1,0 +1,387 @@
+------------------------------------------------------
+Leica System 1200 Sets of Angles, Version 8.02 Logfile
+------------------------------------------------------
+Instrument Type		: TM30 0.5" 
+Instrument Serial No.	: 000000    
+
+Store To Job		: MYJOBNAME       
+Sets of Angles Start	: 10.10.13, 14:46:24
+
+TPS Station		:               P305	E=          -38.429	N=           13.683	H=          -14.474	hi=      0.000
+--------------------------------------------------------------------------------
+Horizontal Set Results
+
+Number Of Sets:   3   Number Of Points:   5
+
+Standard Deviation Of Single Measurement:    0.00021
+Standard Deviation Of All Measurements  :    0.00012
+--------------------------------------------------------------------------------
+        P304  Mean of all Sets(Hz): 0.00000   
+        P303  Mean of all Sets(Hz): 109.47668 
+        P307  Mean of all Sets(Hz): 308.85911 
+        P308  Mean of all Sets(Hz): 364.43164 
+        P306  Mean of all Sets(Hz): 386.72320 
+Hz residual  Set: 1    Point ID: P304          Reduced Mean: 0.00000     Hz Residuals: 0.00000   
+Hz residual  Set: 2    Point ID: P304          Reduced Mean: 0.00000     Hz Residuals: 0.00000   
+Hz residual  Set: 3    Point ID: P304          Reduced Mean: 0.00000     Hz Residuals: 0.00000   
+Hz residual  Set: 1    Point ID: P303          Reduced Mean: 109.47726   Hz Residuals: -0.00058  
+Hz residual  Set: 2    Point ID: P303          Reduced Mean: 109.47653   Hz Residuals: 0.00015   
+Hz residual  Set: 3    Point ID: P303          Reduced Mean: 109.47626   Hz Residuals: 0.00043   
+Hz residual  Set: 1    Point ID: P307          Reduced Mean: 308.85929   Hz Residuals: -0.00018  
+Hz residual  Set: 2    Point ID: P307          Reduced Mean: 308.85914   Hz Residuals: -0.00003  
+Hz residual  Set: 3    Point ID: P307          Reduced Mean: 308.85890   Hz Residuals: 0.00021   
+Hz residual  Set: 1    Point ID: P308          Reduced Mean: 364.43185   Hz Residuals: -0.00021  
+Hz residual  Set: 2    Point ID: P308          Reduced Mean: 364.43158   Hz Residuals: 0.00006   
+Hz residual  Set: 3    Point ID: P308          Reduced Mean: 364.43149   Hz Residuals: 0.00015   
+Hz residual  Set: 1    Point ID: P306          Reduced Mean: 386.72330   Hz Residuals: -0.00010  
+Hz residual  Set: 2    Point ID: P306          Reduced Mean: 386.72308   Hz Residuals: 0.00012   
+Hz residual  Set: 3    Point ID: P306          Reduced Mean: 386.72322   Hz Residuals: -0.00002  
+
+Vertical Set Results
+
+Number of Sets:   3   Number Of Points:   5
+
+Standard Deviation Of Single Measurement:    0.00025
+Standard Deviation Of All Measurements  :    0.00015
+--------------------------------------------------------------------------------
+
+        P304  Mean of all Sets (V): 90.99686  
+        P303  Mean of all Sets (V): 78.31389  
+        P307  Mean of all Sets (V): 113.37127 
+        P308  Mean of all Sets (V): 104.87612 
+        P306  Mean of all Sets (V): 97.42925  
+V residual Set:1    Point ID: P304          Mean Of Face I/II: 90.99699    Residuals V: -0.00013  
+V residual Set:2    Point ID: P304          Mean Of Face I/II: 90.99681    Residuals V: 0.00005   
+V residual Set:3    Point ID: P304          Mean Of Face I/II: 90.99677    Residuals V: 0.00008   
+V residual Set:1    Point ID: P303          Mean Of Face I/II: 78.31340    Residuals V: 0.00049   
+V residual Set:2    Point ID: P303          Mean Of Face I/II: 78.31414    Residuals V: -0.00025  
+V residual Set:3    Point ID: P303          Mean Of Face I/II: 78.31413    Residuals V: -0.00024  
+V residual Set:1    Point ID: P307          Mean Of Face I/II: 113.37103   Residuals V: 0.00025   
+V residual Set:2    Point ID: P307          Mean Of Face I/II: 113.37132   Residuals V: -0.00005  
+V residual Set:3    Point ID: P307          Mean Of Face I/II: 113.37147   Residuals V: -0.00020  
+V residual Set:1    Point ID: P308          Mean Of Face I/II: 104.87621   Residuals V: -0.00009  
+V residual Set:2    Point ID: P308          Mean Of Face I/II: 104.87619   Residuals V: -0.00007  
+V residual Set:3    Point ID: P308          Mean Of Face I/II: 104.87595   Residuals V: 0.00016   
+V residual Set:1    Point ID: P306          Mean Of Face I/II: 97.42948    Residuals V: -0.00023  
+V residual Set:2    Point ID: P306          Mean Of Face I/II: 97.42924    Residuals V: 0.00002   
+V residual Set:3    Point ID: P306          Mean Of Face I/II: 97.42904    Residuals V: 0.00022   
+
+Distance Results
+
+Number of Sets:   3    Number of Points:   5
+
+Standrad Deviation Of Single Distance:     0.0001
+Standard Deviation Of Mean Distance  :     0.0000
+----------------------------------------------------------------------------------
+
+        P304  Mean Distance Of All Sets: 202.1418  Prism constant:0.0000  Type: Prism  ATR Status:On  EDM Mode: Exact    EDM Type: IR
+        P303  Mean Distance Of All Sets:  43.2792  Prism constant:0.0000  Type: Prism  ATR Status:On  EDM Mode: Exact    EDM Type: IR
+        P307  Mean Distance Of All Sets:  57.4116  Prism constant:0.0000  Type: Prism  ATR Status:On  EDM Mode: Exact    EDM Type: IR
+        P308  Mean Distance Of All Sets: 138.0455  Prism constant:0.0000  Type: Prism  ATR Status:On  EDM Mode: Exact    EDM Type: IR
+        P306  Mean Distance Of All Sets: 160.5536  Prism constant:0.0000  Type: Prism  ATR Status:On  EDM Mode: Exact    EDM Type: IR
+Distance Result Set:1    Point ID: P304          Mean Of Face I And II:202.1418    Residuals: 0.0000    
+Distance Result Set:2    Point ID: P304          Mean Of Face I And II:202.1418    Residuals: 0.0000    
+Distance Result Set:3    Point ID: P304          Mean Of Face I And II:202.1418    Residuals: -0.0000   
+Distance Result Set:1    Point ID: P303          Mean Of Face I And II:43.2792     Residuals: -0.0001   
+Distance Result Set:2    Point ID: P303          Mean Of Face I And II:43.2790     Residuals: 0.0001    
+Distance Result Set:3    Point ID: P303          Mean Of Face I And II:43.2792     Residuals: -0.0000   
+Distance Result Set:1    Point ID: P307          Mean Of Face I And II:57.4116     Residuals: 0.0001    
+Distance Result Set:2    Point ID: P307          Mean Of Face I And II:57.4117     Residuals: -0.0001   
+Distance Result Set:3    Point ID: P307          Mean Of Face I And II:57.4116     Residuals: 0.0000    
+Distance Result Set:1    Point ID: P308          Mean Of Face I And II:138.0455    Residuals: -0.0000   
+Distance Result Set:2    Point ID: P308          Mean Of Face I And II:138.0455    Residuals: 0.0000    
+Distance Result Set:3    Point ID: P308          Mean Of Face I And II:138.0455    Residuals: 0.0000    
+Distance Result Set:1    Point ID: P306          Mean Of Face I And II:160.5537    Residuals: -0.0001   
+Distance Result Set:2    Point ID: P306          Mean Of Face I And II:160.5536    Residuals: 0.0000    
+Distance Result Set:3    Point ID: P306          Mean Of Face I And II:160.5536    Residuals: 0.0001    
+
+------------------------------------------------------
+Leica System 1200 Sets of Angles, Version 8.02 Logfile
+------------------------------------------------------
+Instrument Type		: TM30 0.5" 
+Instrument Serial No.	: 000000    
+
+Store To Job		: MYJOBNAME       
+Sets of Angles Start	: 10.10.13, 15:05:01
+
+TPS Station		:               P307	E=          -94.036	N=           21.471	H=          -26.443	hi=      0.000
+--------------------------------------------------------------------------------
+Horizontal Set Results
+
+Number Of Sets:   3   Number Of Points:   5
+
+Standard Deviation Of Single Measurement:    0.00020
+Standard Deviation Of All Measurements  :    0.00012
+--------------------------------------------------------------------------------
+        P304  Mean of all Sets(Hz): 0.00000   
+        P303  Mean of all Sets(Hz): 91.20124  
+        P308  Mean of all Sets(Hz): 372.02395 
+        P306  Mean of all Sets(Hz): 391.56949 
+        P305  Mean of all Sets(Hz): 90.94098  
+Hz residual  Set: 1    Point ID: P304          Reduced Mean: 0.00000     Hz Residuals: 0.00000   
+Hz residual  Set: 2    Point ID: P304          Reduced Mean: 0.00000     Hz Residuals: 0.00000   
+Hz residual  Set: 3    Point ID: P304          Reduced Mean: 0.00000     Hz Residuals: 0.00000   
+Hz residual  Set: 1    Point ID: P303          Reduced Mean: 91.20147    Hz Residuals: -0.00022  
+Hz residual  Set: 2    Point ID: P303          Reduced Mean: 91.20129    Hz Residuals: -0.00005  
+Hz residual  Set: 3    Point ID: P303          Reduced Mean: 91.20097    Hz Residuals: 0.00027   
+Hz residual  Set: 1    Point ID: P308          Reduced Mean: 372.02378   Hz Residuals: 0.00017   
+Hz residual  Set: 2    Point ID: P308          Reduced Mean: 372.02407   Hz Residuals: -0.00013  
+Hz residual  Set: 3    Point ID: P308          Reduced Mean: 372.02399   Hz Residuals: -0.00004  
+Hz residual  Set: 1    Point ID: P306          Reduced Mean: 391.56936   Hz Residuals: 0.00013   
+Hz residual  Set: 2    Point ID: P306          Reduced Mean: 391.56969   Hz Residuals: -0.00020  
+Hz residual  Set: 3    Point ID: P306          Reduced Mean: 391.56941   Hz Residuals: 0.00007   
+Hz residual  Set: 1    Point ID: P305          Reduced Mean: 90.94125    Hz Residuals: -0.00028  
+Hz residual  Set: 2    Point ID: P305          Reduced Mean: 90.94108    Hz Residuals: -0.00010  
+Hz residual  Set: 3    Point ID: P305          Reduced Mean: 90.94060    Hz Residuals: 0.00038   
+
+Vertical Set Results
+
+Number of Sets:   3   Number Of Points:   5
+
+Standard Deviation Of Single Measurement:    0.00006
+Standard Deviation Of All Measurements  :    0.00003
+--------------------------------------------------------------------------------
+
+        P304  Mean of all Sets (V): 87.30580  
+        P303  Mean of all Sets (V): 83.05638  
+        P308  Mean of all Sets (V): 99.18795  
+        P306  Mean of all Sets (V): 92.25083  
+        P305  Mean of all Sets (V): 86.64672  
+V residual Set:1    Point ID: P304          Mean Of Face I/II: 87.30585    Residuals V: -0.00005  
+V residual Set:2    Point ID: P304          Mean Of Face I/II: 87.30577    Residuals V: 0.00004   
+V residual Set:3    Point ID: P304          Mean Of Face I/II: 87.30579    Residuals V: 0.00001   
+V residual Set:1    Point ID: P303          Mean Of Face I/II: 83.05637    Residuals V: 0.00001   
+V residual Set:2    Point ID: P303          Mean Of Face I/II: 83.05644    Residuals V: -0.00007  
+V residual Set:3    Point ID: P303          Mean Of Face I/II: 83.05631    Residuals V: 0.00006   
+V residual Set:1    Point ID: P308          Mean Of Face I/II: 99.18802    Residuals V: -0.00007  
+V residual Set:2    Point ID: P308          Mean Of Face I/II: 99.18794    Residuals V: 0.00000   
+V residual Set:3    Point ID: P308          Mean Of Face I/II: 99.18789    Residuals V: 0.00006   
+V residual Set:1    Point ID: P306          Mean Of Face I/II: 92.25084    Residuals V: -0.00001  
+V residual Set:2    Point ID: P306          Mean Of Face I/II: 92.25086    Residuals V: -0.00004  
+V residual Set:3    Point ID: P306          Mean Of Face I/II: 92.25077    Residuals V: 0.00005   
+V residual Set:1    Point ID: P305          Mean Of Face I/II: 86.64679    Residuals V: -0.00008  
+V residual Set:2    Point ID: P305          Mean Of Face I/II: 86.64665    Residuals V: 0.00007   
+V residual Set:3    Point ID: P305          Mean Of Face I/II: 86.64671    Residuals V: 0.00001   
+
+Distance Results
+
+Number of Sets:   3    Number of Points:   5
+
+Standrad Deviation Of Single Distance:     0.0001
+Standard Deviation Of Mean Distance  :     0.0000
+----------------------------------------------------------------------------------
+
+        P304  Mean Distance Of All Sets: 204.2598  Prism constant:0.0000  Type: Prism  ATR Status:On  EDM Mode: Exact    EDM Type: IR
+        P303  Mean Distance Of All Sets: 100.4802  Prism constant:0.0000  Type: Prism  ATR Status:On  EDM Mode: Exact    EDM Type: IR
+        P308  Mean Distance Of All Sets: 110.3052  Prism constant:0.0000  Type: Prism  ATR Status:On  EDM Mode: Exact    EDM Type: IR
+        P306  Mean Distance Of All Sets: 151.9539  Prism constant:0.0000  Type: Prism  ATR Status:On  EDM Mode: Exact    EDM Type: IR
+        P305  Mean Distance Of All Sets:  57.4086  Prism constant:0.0000  Type: Prism  ATR Status:On  EDM Mode: Exact    EDM Type: IR
+Distance Result Set:1    Point ID: P304          Mean Of Face I And II:204.2599    Residuals: -0.0001   
+Distance Result Set:2    Point ID: P304          Mean Of Face I And II:204.2597    Residuals: 0.0001    
+Distance Result Set:3    Point ID: P304          Mean Of Face I And II:204.2599    Residuals: -0.0001   
+Distance Result Set:1    Point ID: P303          Mean Of Face I And II:100.4801    Residuals: 0.0001    
+Distance Result Set:2    Point ID: P303          Mean Of Face I And II:100.4802    Residuals: -0.0000   
+Distance Result Set:3    Point ID: P303          Mean Of Face I And II:100.4802    Residuals: -0.0000   
+Distance Result Set:1    Point ID: P308          Mean Of Face I And II:110.3052    Residuals: 0.0000    
+Distance Result Set:2    Point ID: P308          Mean Of Face I And II:110.3052    Residuals: -0.0000   
+Distance Result Set:3    Point ID: P308          Mean Of Face I And II:110.3052    Residuals: 0.0000    
+Distance Result Set:1    Point ID: P306          Mean Of Face I And II:151.9539    Residuals: -0.0000   
+Distance Result Set:2    Point ID: P306          Mean Of Face I And II:151.9538    Residuals: 0.0000    
+Distance Result Set:3    Point ID: P306          Mean Of Face I And II:151.9539    Residuals: -0.0000   
+Distance Result Set:1    Point ID: P305          Mean Of Face I And II:57.4086     Residuals: -0.0000   
+Distance Result Set:2    Point ID: P305          Mean Of Face I And II:57.4086     Residuals: -0.0000   
+Distance Result Set:3    Point ID: P305          Mean Of Face I And II:57.4086     Residuals: 0.0000    
+
+------------------------------------------------------
+Leica System 1200 Sets of Angles, Version 8.02 Logfile
+------------------------------------------------------
+Instrument Type		: TM30 0.5" 
+Instrument Serial No.	: 000000    
+
+Store To Job		: MYJOBNAME       
+Sets of Angles Start	: 10.10.13, 15:33:04
+
+TPS Station		:               P306	E=           40.886	N=           35.992	H=          -22.009	hi=      0.000
+--------------------------------------------------------------------------------
+Horizontal Set Results
+
+Number Of Sets:   3   Number Of Points:   6
+
+Standard Deviation Of Single Measurement:    0.00012
+Standard Deviation Of All Measurements  :    0.00007
+--------------------------------------------------------------------------------
+        P303  Mean of all Sets(Hz): 0.00000   
+        P309  Mean of all Sets(Hz): 8.39195   
+        P305  Mean of all Sets(Hz): 13.70958  
+        P307  Mean of all Sets(Hz): 36.47324  
+        P308  Mean of all Sets(Hz): 76.59714  
+        P306  Mean of all Sets(Hz): 268.73213 
+Hz residual  Set: 1    Point ID: P303          Reduced Mean: 0.00000     Hz Residuals: 0.00000   
+Hz residual  Set: 2    Point ID: P303          Reduced Mean: 0.00000     Hz Residuals: 0.00000   
+Hz residual  Set: 3    Point ID: P303          Reduced Mean: 0.00000     Hz Residuals: 0.00000   
+Hz residual  Set: 1    Point ID: P309          Reduced Mean: 8.39198     Hz Residuals: -0.00003  
+Hz residual  Set: 2    Point ID: P309          Reduced Mean: 8.39194     Hz Residuals: 0.00001   
+Hz residual  Set: 3    Point ID: P309          Reduced Mean: 8.39192     Hz Residuals: 0.00003   
+Hz residual  Set: 1    Point ID: P305          Reduced Mean: 13.70945    Hz Residuals: 0.00013   
+Hz residual  Set: 2    Point ID: P305          Reduced Mean: 13.70960    Hz Residuals: -0.00003  
+Hz residual  Set: 3    Point ID: P305          Reduced Mean: 13.70968    Hz Residuals: -0.00010  
+Hz residual  Set: 1    Point ID: P307          Reduced Mean: 36.47332    Hz Residuals: -0.00007  
+Hz residual  Set: 2    Point ID: P307          Reduced Mean: 36.47330    Hz Residuals: -0.00006  
+Hz residual  Set: 3    Point ID: P307          Reduced Mean: 36.47311    Hz Residuals: 0.00013   
+Hz residual  Set: 1    Point ID: P308          Reduced Mean: 76.59692    Hz Residuals: 0.00023   
+Hz residual  Set: 2    Point ID: P308          Reduced Mean: 76.59738    Hz Residuals: -0.00024  
+Hz residual  Set: 3    Point ID: P308          Reduced Mean: 76.59713    Hz Residuals: 0.00001   
+Hz residual  Set: 1    Point ID: P306          Reduced Mean: 268.73197   Hz Residuals: 0.00016   
+Hz residual  Set: 2    Point ID: P306          Reduced Mean: 268.73226   Hz Residuals: -0.00013  
+Hz residual  Set: 3    Point ID: P306          Reduced Mean: 268.73216   Hz Residuals: -0.00003  
+
+Vertical Set Results
+
+Number of Sets:   3   Number Of Points:   6
+
+Standard Deviation Of Single Measurement:    0.00012
+Standard Deviation Of All Measurements  :    0.00007
+--------------------------------------------------------------------------------
+
+        P303  Mean of all Sets (V): 97.16262  
+        P309  Mean of all Sets (V): 97.93819  
+        P305  Mean of all Sets (V): 102.57753 
+        P307  Mean of all Sets (V): 107.74995 
+        P308  Mean of all Sets (V): 118.63371 
+        P306  Mean of all Sets (V): 75.55376  
+V residual Set:1    Point ID: P303          Mean Of Face I/II: 97.16251    Residuals V: 0.00011   
+V residual Set:2    Point ID: P303          Mean Of Face I/II: 97.16272    Residuals V: -0.00010  
+V residual Set:3    Point ID: P303          Mean Of Face I/II: 97.16263    Residuals V: -0.00001  
+V residual Set:1    Point ID: P309          Mean Of Face I/II: 97.93809    Residuals V: 0.00010   
+V residual Set:2    Point ID: P309          Mean Of Face I/II: 97.93825    Residuals V: -0.00006  
+V residual Set:3    Point ID: P309          Mean Of Face I/II: 97.93824    Residuals V: -0.00004  
+V residual Set:1    Point ID: P305          Mean Of Face I/II: 102.57729   Residuals V: 0.00024   
+V residual Set:2    Point ID: P305          Mean Of Face I/II: 102.57768   Residuals V: -0.00016  
+V residual Set:3    Point ID: P305          Mean Of Face I/II: 102.57762   Residuals V: -0.00009  
+V residual Set:1    Point ID: P307          Mean Of Face I/II: 107.74998   Residuals V: -0.00004  
+V residual Set:2    Point ID: P307          Mean Of Face I/II: 107.74996   Residuals V: -0.00001  
+V residual Set:3    Point ID: P307          Mean Of Face I/II: 107.74990   Residuals V: 0.00005   
+V residual Set:1    Point ID: P308          Mean Of Face I/II: 118.63362   Residuals V: 0.00009   
+V residual Set:2    Point ID: P308          Mean Of Face I/II: 118.63374   Residuals V: -0.00003  
+V residual Set:3    Point ID: P308          Mean Of Face I/II: 118.63377   Residuals V: -0.00006  
+V residual Set:1    Point ID: P306          Mean Of Face I/II: 75.55373    Residuals V: 0.00003   
+V residual Set:2    Point ID: P306          Mean Of Face I/II: 75.55368    Residuals V: 0.00008   
+V residual Set:3    Point ID: P306          Mean Of Face I/II: 75.55386    Residuals V: -0.00010  
+
+Distance Results
+
+Number of Sets:   3    Number of Points:   6
+
+Standrad Deviation Of Single Distance:     0.0001
+Standard Deviation Of Mean Distance  :     0.0001
+----------------------------------------------------------------------------------
+
+        P303  Mean Distance Of All Sets: 179.0051  Prism constant:0.0000  Type: Prism  ATR Status:On  EDM Mode: Exact    EDM Type: IR
+        P309  Mean Distance Of All Sets: 288.1217  Prism constant:0.0000  Type: Prism  ATR Status:On  EDM Mode: Exact    EDM Type: IR
+        P305  Mean Distance Of All Sets: 160.5563  Prism constant:0.0000  Type: Prism  ATR Status:On  EDM Mode: Exact    EDM Type: IR
+        P307  Mean Distance Of All Sets: 151.9550  Prism constant:0.0000  Type: Prism  ATR Status:On  EDM Mode: Exact    EDM Type: IR
+        P308  Mean Distance Of All Sets:  59.0708  Prism constant:0.0000  Type: Prism  ATR Status:On  EDM Mode: Exact    EDM Type: IR
+        P306  Mean Distance Of All Sets:  58.7514  Prism constant:0.0000  Type: Prism  ATR Status:On  EDM Mode: Exact    EDM Type: IR
+Distance Result Set:1    Point ID: P303          Mean Of Face I And II:179.0052    Residuals: -0.0001   
+Distance Result Set:2    Point ID: P303          Mean Of Face I And II:179.0050    Residuals: 0.0001    
+Distance Result Set:3    Point ID: P303          Mean Of Face I And II:179.0051    Residuals: -0.0000   
+Distance Result Set:1    Point ID: P309          Mean Of Face I And II:288.1217    Residuals: 0.0001    
+Distance Result Set:2    Point ID: P309          Mean Of Face I And II:288.1217    Residuals: 0.0000    
+Distance Result Set:3    Point ID: P309          Mean Of Face I And II:288.1219    Residuals: -0.0001   
+Distance Result Set:1    Point ID: P305          Mean Of Face I And II:160.5564    Residuals: -0.0001   
+Distance Result Set:2    Point ID: P305          Mean Of Face I And II:160.5562    Residuals: 0.0001    
+Distance Result Set:3    Point ID: P305          Mean Of Face I And II:160.5564    Residuals: -0.0001   
+Distance Result Set:1    Point ID: P307          Mean Of Face I And II:151.9551    Residuals: -0.0001   
+Distance Result Set:2    Point ID: P307          Mean Of Face I And II:151.9550    Residuals: 0.0000    
+Distance Result Set:3    Point ID: P307          Mean Of Face I And II:151.9550    Residuals: 0.0000    
+Distance Result Set:1    Point ID: P308          Mean Of Face I And II:59.0708     Residuals: -0.0000   
+Distance Result Set:2    Point ID: P308          Mean Of Face I And II:59.0708     Residuals: 0.0000    
+Distance Result Set:3    Point ID: P308          Mean Of Face I And II:59.0708     Residuals: 0.0000    
+Distance Result Set:1    Point ID: P306          Mean Of Face I And II:58.7515     Residuals: -0.0001   
+Distance Result Set:2    Point ID: P306          Mean Of Face I And II:58.7514     Residuals: -0.0000   
+Distance Result Set:3    Point ID: P306          Mean Of Face I And II:58.7513     Residuals: 0.0001    
+
+------------------------------------------------------
+Leica System 1200 Sets of Angles, Version 8.02 Logfile
+------------------------------------------------------
+Instrument Type		: TM30 0.5" 
+Instrument Serial No.	: 000000    
+
+Store To Job		: MYJOBNAME       
+Sets of Angles Start	: 10.10.13, 15:53:08
+
+TPS Station		:               P308	E=           29.885	N=           91.471	H=          -39.053	hi=      0.000
+--------------------------------------------------------------------------------
+Horizontal Set Results
+
+Number Of Sets:   3   Number Of Points:   4
+
+Standard Deviation Of Single Measurement:    0.00013
+Standard Deviation Of All Measurements  :    0.00008
+--------------------------------------------------------------------------------
+        P303  Mean of all Sets(Hz): 0.00000   
+        P305  Mean of all Sets(Hz): 11.88203  
+        P307  Mean of all Sets(Hz): 37.39164  
+        P306  Mean of all Sets(Hz): 297.06149 
+Hz residual  Set: 1    Point ID: P303          Reduced Mean: 0.00000     Hz Residuals: 0.00000   
+Hz residual  Set: 2    Point ID: P303          Reduced Mean: 0.00000     Hz Residuals: 0.00000   
+Hz residual  Set: 3    Point ID: P303          Reduced Mean: 0.00000     Hz Residuals: 0.00000   
+Hz residual  Set: 1    Point ID: P305          Reduced Mean: 11.88193    Hz Residuals: 0.00009   
+Hz residual  Set: 2    Point ID: P305          Reduced Mean: 11.88206    Hz Residuals: -0.00004  
+Hz residual  Set: 3    Point ID: P305          Reduced Mean: 11.88208    Hz Residuals: -0.00006  
+Hz residual  Set: 1    Point ID: P307          Reduced Mean: 37.39139    Hz Residuals: 0.00026   
+Hz residual  Set: 2    Point ID: P307          Reduced Mean: 37.39176    Hz Residuals: -0.00011  
+Hz residual  Set: 3    Point ID: P307          Reduced Mean: 37.39179    Hz Residuals: -0.00014  
+Hz residual  Set: 1    Point ID: P306          Reduced Mean: 297.06160   Hz Residuals: -0.00011  
+Hz residual  Set: 2    Point ID: P306          Reduced Mean: 297.06146   Hz Residuals: 0.00003   
+Hz residual  Set: 3    Point ID: P306          Reduced Mean: 297.06141   Hz Residuals: 0.00008   
+
+Vertical Set Results
+
+Number of Sets:   3   Number Of Points:   4
+
+Standard Deviation Of Single Measurement:    0.00013
+Standard Deviation Of All Measurements  :    0.00007
+--------------------------------------------------------------------------------
+
+        P303  Mean of all Sets (V): 90.53585  
+        P305  Mean of all Sets (V): 95.13205  
+        P307  Mean of all Sets (V): 100.81244 
+        P306  Mean of all Sets (V): 81.36548  
+V residual Set:1    Point ID: P303          Mean Of Face I/II: 90.53574    Residuals V: 0.00011   
+V residual Set:2    Point ID: P303          Mean Of Face I/II: 90.53602    Residuals V: -0.00017  
+V residual Set:3    Point ID: P303          Mean Of Face I/II: 90.53578    Residuals V: 0.00006   
+V residual Set:1    Point ID: P305          Mean Of Face I/II: 95.13185    Residuals V: 0.00020   
+V residual Set:2    Point ID: P305          Mean Of Face I/II: 95.13215    Residuals V: -0.00010  
+V residual Set:3    Point ID: P305          Mean Of Face I/II: 95.13216    Residuals V: -0.00011  
+V residual Set:1    Point ID: P307          Mean Of Face I/II: 100.81252   Residuals V: -0.00008  
+V residual Set:2    Point ID: P307          Mean Of Face I/II: 100.81236   Residuals V: 0.00008   
+V residual Set:3    Point ID: P307          Mean Of Face I/II: 100.81245   Residuals V: -0.00000  
+V residual Set:1    Point ID: P306          Mean Of Face I/II: 81.36557    Residuals V: -0.00009  
+V residual Set:2    Point ID: P306          Mean Of Face I/II: 81.36542    Residuals V: 0.00006   
+V residual Set:3    Point ID: P306          Mean Of Face I/II: 81.36545    Residuals V: 0.00003   
+
+Distance Results
+
+Number of Sets:   3    Number of Points:   4
+
+Standrad Deviation Of Single Distance:     0.0001
+Standard Deviation Of Mean Distance  :     0.0000
+----------------------------------------------------------------------------------
+
+        P303  Mean Distance Of All Sets: 168.9208  Prism constant:0.0000  Type: Prism  ATR Status:On  EDM Mode: Exact    EDM Type: IR
+        P305  Mean Distance Of All Sets: 138.0447  Prism constant:0.0000  Type: Prism  ATR Status:On  EDM Mode: Exact    EDM Type: IR
+        P307  Mean Distance Of All Sets: 110.3048  Prism constant:0.0000  Type: Prism  ATR Status:On  EDM Mode: Exact    EDM Type: IR
+        P306  Mean Distance Of All Sets:  59.0709  Prism constant:0.0000  Type: Prism  ATR Status:On  EDM Mode: Exact    EDM Type: IR
+Distance Result Set:1    Point ID: P303          Mean Of Face I And II:168.9208    Residuals: -0.0001   
+Distance Result Set:2    Point ID: P303          Mean Of Face I And II:168.9208    Residuals: 0.0000    
+Distance Result Set:3    Point ID: P303          Mean Of Face I And II:168.9207    Residuals: 0.0001    
+Distance Result Set:1    Point ID: P305          Mean Of Face I And II:138.0446    Residuals: 0.0001    
+Distance Result Set:2    Point ID: P305          Mean Of Face I And II:138.0447    Residuals: -0.0000   
+Distance Result Set:3    Point ID: P305          Mean Of Face I And II:138.0447    Residuals: -0.0000   
+Distance Result Set:1    Point ID: P307          Mean Of Face I And II:110.3048    Residuals: -0.0000   
+Distance Result Set:2    Point ID: P307          Mean Of Face I And II:110.3048    Residuals: -0.0000   
+Distance Result Set:3    Point ID: P307          Mean Of Face I And II:110.3047    Residuals: 0.0001    
+Distance Result Set:1    Point ID: P306          Mean Of Face I And II:59.0709     Residuals: 0.0000    
+Distance Result Set:2    Point ID: P306          Mean Of Face I And II:59.0709     Residuals: 0.0001    
+Distance Result Set:3    Point ID: P306          Mean Of Face I And II:59.0710     Residuals: -0.0001   
